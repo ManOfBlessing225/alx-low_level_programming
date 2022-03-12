@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*
- * Main is the entry point of the programming in C
+/**
+ * main - Entry point
  *
- * This program aims to print with puts
+ * Return: Always 0 (Success)
  */
 
 int main(void)
